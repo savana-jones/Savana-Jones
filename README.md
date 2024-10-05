@@ -19,8 +19,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=savana-jones&icon=2&color=11)](https://visitcount.itsvg.in)
-
+<!--[![](https://visitcount.itsvg.in/api?id=savana-jones&icon=2&color=11)](https://visitcount.itsvg.in)-->
+[![](https://visitcount.itsvg.in/api?id=savana-jones&label=Profile%20Views&color=11&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- ## GSSOC Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>

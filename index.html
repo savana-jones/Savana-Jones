@@ -140,19 +140,19 @@
 							<p><b>Interested in collaborating or have any questions? Feel free to reach out to me via email or 
 								connect with me on LinkedIn. 
 								I look forward to discussing potential opportunities and how we can work together.</b></p>
-							<form method="post" method="post" action="">
+							<form method="post" method="post" action="sendmail.php">
 								<div class="fields">
 									<div class="field">
 										<label for="name">Name</label>
-										<input type="text" name="name" id="name" />
+										<input type="text" name="name" id="name" required/>
 									</div>
 									<div class="field">
 										<label for="email">Email</label>
-										<input type="email" name="email" id="email" />
+										<input type="email" name="email" id="email" required />
 									</div>
 									<div class="field">
 										<label for="message">Message</label>
-										<textarea name="message" id="message" rows="4"></textarea>
+										<textarea name="message" id="message" rows="4" required></textarea>
 									</div>
 								</div>
 								<ul class="actions">
